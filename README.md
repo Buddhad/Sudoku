@@ -1,1 +1,1 @@
-# Soduku
+# Sodoku Game
